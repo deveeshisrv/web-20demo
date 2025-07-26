@@ -344,7 +344,7 @@ export default function Index() {
                   </a>
 
                   <p className="text-sm text-muted-foreground">
-                    Direct consultation with Dr. Chhavi - professional assessment and treatment planning
+                    Direct access to Dr. Chhavi's medical practice - clinical assessment and treatment protocols
                   </p>
                 </div>
 

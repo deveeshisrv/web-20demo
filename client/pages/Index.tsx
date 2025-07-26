@@ -285,7 +285,7 @@ export default function Index() {
               </div>
 
               <div>
-                <h4 className="text-xl font-semibold mb-4">Office Hours</h4>
+                <h4 className="text-xl font-semibold mb-4">When I'm Available</h4>
                 <div className="space-y-2">
                   <div className="flex justify-between">
                     <span>Monday - Friday</span>
@@ -296,8 +296,8 @@ export default function Index() {
                     <span className="text-muted-foreground">9:00 AM - 2:00 PM</span>
                   </div>
                   <div className="flex justify-between">
-                    <span>Sunday</span>
-                    <span className="text-muted-foreground">Closed</span>
+                    <span>Emergencies</span>
+                    <span className="text-muted-foreground">Call anytime</span>
                   </div>
                 </div>
               </div>

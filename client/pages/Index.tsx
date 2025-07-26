@@ -170,8 +170,8 @@ export default function Index() {
                     <Users className="h-6 w-6 text-primary" />
                   </div>
                   <div>
-                    <h4 className="font-semibold mb-1">Constitutional Assessment</h4>
-                    <p className="text-sm text-muted-foreground">Understanding your unique Vata, Pitta, and Kapha balance</p>
+                    <h4 className="font-semibold mb-1">Comprehensive Diagnostic Analysis</h4>
+                    <p className="text-sm text-muted-foreground">Advanced Tridosha assessment and pathological imbalance identification</p>
                   </div>
                 </div>
                 <div className="flex items-start space-x-4">
@@ -179,8 +179,8 @@ export default function Index() {
                     <Heart className="h-6 w-6 text-primary" />
                   </div>
                   <div>
-                    <h4 className="font-semibold mb-1">Root Cause Healing</h4>
-                    <p className="text-sm text-muted-foreground">Addressing the source, not just symptoms, naturally</p>
+                    <h4 className="font-semibold mb-1">Etiopathological Treatment</h4>
+                    <p className="text-sm text-muted-foreground">Systematic elimination of disease causation through targeted therapeutics</p>
                   </div>
                 </div>
               </div>

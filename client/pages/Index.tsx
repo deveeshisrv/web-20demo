@@ -98,15 +98,15 @@ export default function Index() {
               <div className="grid grid-cols-3 gap-6 pt-8">
                 <div className="text-center group hover:scale-110 transition-all duration-300 cursor-pointer">
                   <div className="text-3xl font-bold text-primary group-hover:text-primary/80 transition-colors">10+</div>
-                  <div className="text-sm text-muted-foreground">Years in Ayurveda</div>
+                  <div className="text-sm text-muted-foreground">Years Clinical Practice</div>
                 </div>
                 <div className="text-center group hover:scale-110 transition-all duration-300 cursor-pointer">
-                  <div className="text-3xl font-bold text-primary group-hover:text-primary/80 transition-colors">🌿</div>
-                  <div className="text-sm text-muted-foreground">Natural Healing</div>
+                  <div className="text-3xl font-bold text-primary group-hover:text-primary/80 transition-colors">100%</div>
+                  <div className="text-sm text-muted-foreground">Root Cause Focus</div>
                 </div>
                 <div className="text-center group hover:scale-110 transition-all duration-300 cursor-pointer">
-                  <div className="text-3xl font-bold text-primary group-hover:text-primary/80 transition-colors">☯</div>
-                  <div className="text-sm text-muted-foreground">Mind-Body Balance</div>
+                  <div className="text-3xl font-bold text-primary group-hover:text-primary/80 transition-colors">500+</div>
+                  <div className="text-sm text-muted-foreground">Successful Treatments</div>
                 </div>
               </div>
             </div>

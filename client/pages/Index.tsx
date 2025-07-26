@@ -268,7 +268,7 @@ export default function Index() {
                     </div>
                     <div>
                       <p className="font-semibold">Personal Email</p>
-                      <p className="text-muted-foreground">sarah.chen.md@gmail.com</p>
+                      <p className="text-muted-foreground">dr.chhavi.ayurveda@gmail.com</p>
                     </div>
                   </div>
 

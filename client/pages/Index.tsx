@@ -370,7 +370,7 @@ export default function Index() {
               <span className="text-xl font-bold text-foreground">Dr. Chhavi</span>
             </div>
             <p className="text-muted-foreground mb-6">
-              Caring for people like you for over 15 years - one conversation at a time.
+              Bringing ancient Ayurvedic wisdom to modern healing - one person at a time.
             </p>
             <div className="flex justify-center space-x-8 text-sm text-muted-foreground">
               <span>© 2024 Dr. Sarah Chen Practice</span>

@@ -73,7 +73,7 @@ export default function Index() {
             <div className="space-y-8">
               <div className="space-y-4">
                 <Badge variant="secondary" className="w-fit">
-                  Personal Healthcare
+                  Ayurveda
                 </Badge>
                 <h1 className="text-5xl md:text-6xl font-bold text-foreground leading-tight">
                   Your Health,

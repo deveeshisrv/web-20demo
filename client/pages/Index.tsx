@@ -153,14 +153,14 @@ export default function Index() {
 
           <div className="grid lg:grid-cols-2 gap-16 items-center mb-16">
             <div className="space-y-6">
-              <h3 className="text-3xl font-bold text-foreground">How I Practice Medicine</h3>
+              <h3 className="text-3xl font-bold text-foreground">My Ayurvedic Approach</h3>
               <p className="text-muted-foreground leading-relaxed">
-                I start every appointment by really listening to you. Your story matters - not just your symptoms,
-                but how you're feeling, what's worrying you, and what you hope to achieve with your health.
+                In Ayurveda, we begin by understanding your unique constitution (Prakriti) and current imbalances (Vikriti).
+                I listen deeply to your body's wisdom, observing not just symptoms but your entire being - mind, body, and spirit.
               </p>
               <p className="text-muted-foreground leading-relaxed">
-                Together, we'll create a plan that fits your life. Whether it's preventing illness, managing
-                a chronic condition, or just feeling your best, I'm here to guide and support you.
+                Together, we'll restore balance using time-tested natural remedies, personalized diet recommendations,
+                lifestyle adjustments, and healing practices that honor your individual nature.
               </p>
               
               <div className="grid sm:grid-cols-2 gap-6 pt-6">

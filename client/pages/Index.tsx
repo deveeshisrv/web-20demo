@@ -323,10 +323,10 @@ export default function Index() {
                   <Phone className="h-12 w-12 text-primary" />
                 </div>
 
-                <h3 className="text-3xl font-bold text-foreground">Schedule Professional Consultation</h3>
+                <h3 className="text-3xl font-bold text-foreground">Book Medical Appointment</h3>
 
                 <p className="text-lg text-muted-foreground">
-                  Contact Dr. Chhavi directly to schedule your comprehensive Ayurvedic assessment and discuss targeted treatment protocols for your specific health concerns.
+                  Contact Dr. Chhavi's medical practice to schedule your clinical consultation and discuss professional Ayurvedic treatment options for your medical condition.
                 </p>
 
                 <div className="space-y-4">

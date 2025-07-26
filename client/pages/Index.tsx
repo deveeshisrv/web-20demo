@@ -154,14 +154,14 @@ export default function Index() {
 
           <div className="grid lg:grid-cols-2 gap-16 items-center mb-16">
             <div className="space-y-6">
-              <h3 className="text-3xl font-bold text-foreground">My Approach to Medicine</h3>
+              <h3 className="text-3xl font-bold text-foreground">How I Practice Medicine</h3>
               <p className="text-muted-foreground leading-relaxed">
-                I believe that excellent healthcare starts with listening. Every patient has a unique story, 
-                and understanding your concerns, lifestyle, and goals is essential to providing the best possible care.
+                I start every appointment by really listening to you. Your story matters - not just your symptoms,
+                but how you're feeling, what's worrying you, and what you hope to achieve with your health.
               </p>
               <p className="text-muted-foreground leading-relaxed">
-                My practice focuses on preventive medicine, chronic disease management, and helping patients 
-                achieve their optimal health through evidence-based treatments and lifestyle modifications.
+                Together, we'll create a plan that fits your life. Whether it's preventing illness, managing
+                a chronic condition, or just feeling your best, I'm here to guide and support you.
               </p>
               
               <div className="grid sm:grid-cols-2 gap-6 pt-6">

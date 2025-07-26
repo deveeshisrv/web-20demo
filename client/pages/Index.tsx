@@ -320,53 +320,57 @@ export default function Index() {
               </Card>
             </div>
 
-            {/* Appointment Form */}
-            <Card className="p-8 transition-all duration-300 hover:shadow-2xl">
-              <h3 className="text-2xl font-bold text-foreground mb-6">Book an Appointment</h3>
-              <form className="space-y-6">
-                <div className="grid sm:grid-cols-2 gap-4">
-                  <div>
-                    <label className="text-sm font-medium mb-2 block">First Name</label>
-                    <Input placeholder="John" />
-                  </div>
-                  <div>
-                    <label className="text-sm font-medium mb-2 block">Last Name</label>
-                    <Input placeholder="Doe" />
-                  </div>
+            {/* Call to Book */}
+            <Card className="p-8 transition-all duration-300 hover:shadow-2xl bg-primary/5 border-primary/20">
+              <div className="text-center space-y-6">
+                <div className="p-6 bg-primary/10 rounded-full w-fit mx-auto">
+                  <Phone className="h-12 w-12 text-primary" />
                 </div>
-                
-                <div>
-                  <label className="text-sm font-medium mb-2 block">Email</label>
-                  <Input type="email" placeholder="john.doe@email.com" />
-                </div>
-                
-                <div>
-                  <label className="text-sm font-medium mb-2 block">Phone</label>
-                  <Input type="tel" placeholder="(555) 123-4567" />
-                </div>
-                
-                <div>
-                  <label className="text-sm font-medium mb-2 block">Preferred Date</label>
-                  <Input type="date" />
-                </div>
-                
-                <div>
-                  <label className="text-sm font-medium mb-2 block">Reason for Visit</label>
-                  <Textarea 
-                    placeholder="Please describe your symptoms or reason for the appointment..."
-                    className="min-h-[120px]"
-                  />
-                </div>
-                
-                <Button className="w-full transition-all duration-300 hover:scale-105 hover:shadow-xl" size="lg">
-                  <Calendar className="mr-2 h-5 w-5" />
-                  Request Appointment
-                </Button>
-                
-                <p className="text-sm text-muted-foreground text-center">
-                  We'll contact you within 24 hours to confirm your appointment time.
+
+                <h3 className="text-3xl font-bold text-foreground">Call to Book Your Appointment</h3>
+
+                <p className="text-lg text-muted-foreground">
+                  Ready to schedule your visit? Give us a call and we'll find the perfect time for you.
                 </p>
-              </form>
+
+                <div className="space-y-4">
+                  <a
+                    href="tel:+15551234567"
+                    className="block w-full"
+                  >
+                    <Button
+                      size="lg"
+                      className="w-full text-2xl py-8 transition-all duration-300 hover:scale-105 hover:shadow-xl group"
+                    >
+                      <Phone className="mr-3 h-6 w-6 group-hover:animate-pulse" />
+                      (555) 123-4567
+                    </Button>
+                  </a>
+
+                  <p className="text-sm text-muted-foreground">
+                    Our friendly staff will help you schedule at a time that works best for you
+                  </p>
+                </div>
+
+                <div className="grid sm:grid-cols-2 gap-4 pt-6">
+                  <div className="text-center p-4 bg-background rounded-lg border">
+                    <Clock className="h-6 w-6 text-primary mx-auto mb-2" />
+                    <h4 className="font-semibold mb-1">Quick Scheduling</h4>
+                    <p className="text-sm text-muted-foreground">Usually available same day or next day</p>
+                  </div>
+                  <div className="text-center p-4 bg-background rounded-lg border">
+                    <Heart className="h-6 w-6 text-primary mx-auto mb-2" />
+                    <h4 className="font-semibold mb-1">Personal Touch</h4>
+                    <p className="text-sm text-muted-foreground">Speak directly with our care team</p>
+                  </div>
+                </div>
+
+                <div className="pt-4 border-t border-primary/20">
+                  <p className="text-sm text-muted-foreground">
+                    <strong>Office Hours:</strong> Monday-Friday 8:00 AM - 6:00 PM, Saturday 9:00 AM - 2:00 PM
+                  </p>
+                </div>
+              </div>
             </Card>
           </div>
         </div>

@@ -77,12 +77,12 @@ export default function Index() {
                   Board Certified Internal Medicine
                 </Badge>
                 <h1 className="text-5xl md:text-6xl font-bold text-foreground leading-tight">
-                  Compassionate Care for Your 
-                  <span className="text-primary"> Health</span>
+                  Your Health,
+                  <span className="text-primary">My Priority</span>
                 </h1>
                 <p className="text-xl text-muted-foreground leading-relaxed">
-                  Welcome to my practice where personalized healthcare meets cutting-edge medicine. 
-                  I'm dedicated to providing comprehensive, patient-centered care in a warm and welcoming environment.
+                  Hi, I'm Dr. Sarah Chen. I believe healthcare should feel personal, not clinical.
+                  Let me be your partner in health - someone who listens, cares, and is here for you every step of the way.
                 </p>
               </div>
               

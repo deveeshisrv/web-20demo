@@ -143,11 +143,11 @@ export default function Index() {
           <div className="text-center mb-16">
             <Badge variant="secondary" className="mb-4">About Me</Badge>
             <h2 className="text-4xl md:text-5xl font-bold text-foreground mb-6">
-              Getting to Know Me
+              My Journey in Ayurveda
             </h2>
             <p className="text-xl text-muted-foreground max-w-3xl mx-auto">
-              I've been practicing medicine for over 15 years, but more importantly, I've been listening,
-              learning, and caring for people like you. Every patient teaches me something new.
+              I've been practicing Ayurveda for over 10 years, guided by ancient wisdom and modern understanding.
+              Each person I meet teaches me more about the beautiful complexity of natural healing.
             </p>
           </div>
 

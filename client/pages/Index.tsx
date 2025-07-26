@@ -324,10 +324,10 @@ export default function Index() {
                   <Phone className="h-12 w-12 text-primary" />
                 </div>
 
-                <h3 className="text-3xl font-bold text-foreground">Begin Your Ayurvedic Journey</h3>
+                <h3 className="text-3xl font-bold text-foreground">Schedule Professional Consultation</h3>
 
                 <p className="text-lg text-muted-foreground">
-                  Ready to explore natural healing? Call me directly and let's discuss how Ayurveda can restore balance and vitality to your life.
+                  Contact Dr. Chhavi directly to schedule your comprehensive Ayurvedic assessment and discuss targeted treatment protocols for your specific health concerns.
                 </p>
 
                 <div className="space-y-4">

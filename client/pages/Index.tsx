@@ -73,11 +73,11 @@ export default function Index() {
             <div className="space-y-8">
               <div className="space-y-4">
                 <Badge variant="secondary" className="w-fit">
-                  Board Certified Internal Medicine
+                  Personal Healthcare
                 </Badge>
                 <h1 className="text-5xl md:text-6xl font-bold text-foreground leading-tight">
                   Your Health,
-                  <span className="text-primary">My Priority</span>
+                  <span className="text-primary">My Passion</span>
                 </h1>
                 <p className="text-xl text-muted-foreground leading-relaxed">
                   Hi, I'm Dr. Sarah Chen. I believe healthcare should feel personal, not clinical.

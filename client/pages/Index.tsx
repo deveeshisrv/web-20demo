@@ -11,9 +11,8 @@ import {
   GraduationCap, 
   Award, 
   Heart, 
-  Users, 
+  Users,
   Calendar,
-  Star,
   Stethoscope
 } from "lucide-react";
 import { useEffect } from "react";

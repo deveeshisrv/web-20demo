@@ -237,13 +237,13 @@ export default function Index() {
       <section id="contact" className="py-20 bg-gradient-to-b from-muted/30 to-background">
         <div className="container mx-auto px-4">
           <div className="text-center mb-16">
-            <Badge variant="secondary" className="mb-4">Begin Your Healing Journey</Badge>
+            <Badge variant="secondary" className="mb-4">Schedule Clinical Consultation</Badge>
             <h2 className="text-4xl md:text-5xl font-bold text-foreground mb-6">
-              Schedule Your Ayurvedic Consultation
+              Professional Ayurvedic Assessment
             </h2>
             <p className="text-xl text-muted-foreground max-w-3xl mx-auto">
-              Ready to discover natural healing through Ayurveda? Call me today to begin your personalized
-              journey toward balance, wellness, and vibrant health.
+              Schedule your comprehensive consultation for systematic evaluation and personalized treatment planning.
+              Dr. Chhavi provides evidence-based root cause analysis and therapeutic protocols for optimal health outcomes.
             </p>
           </div>
 

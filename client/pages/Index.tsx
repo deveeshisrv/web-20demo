@@ -188,7 +188,7 @@ export default function Index() {
             <div className="relative">
               <img 
                 src="/placeholder.svg" 
-                alt="Dr. Chen in consultation" 
+                alt="Dr. Chhavi in Ayurvedic consultation" 
                 className="w-full h-[500px] object-cover rounded-xl shadow-lg"
               />
             </div>

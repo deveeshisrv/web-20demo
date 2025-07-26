@@ -292,7 +292,7 @@ export default function Index() {
             </div>
 
             {/* Appointment Form */}
-            <Card className="p-8">
+            <Card className="p-8 transition-all duration-300 hover:shadow-2xl">
               <h3 className="text-2xl font-bold text-foreground mb-6">Book an Appointment</h3>
               <form className="space-y-6">
                 <div className="grid sm:grid-cols-2 gap-4">

@@ -114,7 +114,10 @@
   }
 
   /* Smooth transitions for all interactive elements */
-  button, input, textarea, select {
+  button,
+  input,
+  textarea,
+  select {
     @apply transition-all duration-300;
   }
 

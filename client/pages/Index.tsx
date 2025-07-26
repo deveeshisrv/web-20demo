@@ -30,10 +30,10 @@ export default function Index() {
             <span className="text-xl font-bold text-foreground">Dr. Sarah Chen</span>
           </div>
           <div className="hidden md:flex items-center space-x-8">
-            <a href="#home" className="text-foreground hover:text-primary transition-colors">Home</a>
-            <a href="#about" className="text-foreground hover:text-primary transition-colors">About</a>
-            <a href="#contact" className="text-foreground hover:text-primary transition-colors">Contact</a>
-            <Button>Book Appointment</Button>
+            <a href="#home" className="text-foreground hover:text-primary transition-all duration-300 hover:scale-105">Home</a>
+            <a href="#about" className="text-foreground hover:text-primary transition-all duration-300 hover:scale-105">About</a>
+            <a href="#contact" className="text-foreground hover:text-primary transition-all duration-300 hover:scale-105">Contact</a>
+            <Button className="transition-all duration-300 hover:scale-105 hover:shadow-lg">Book Appointment</Button>
           </div>
         </div>
       </nav>

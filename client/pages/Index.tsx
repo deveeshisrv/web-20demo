@@ -278,7 +278,7 @@ export default function Index() {
                     </div>
                     <div>
                       <p className="font-semibold">Where I Practice</p>
-                      <p className="text-muted-foreground">Home visits available<br />Virtual consultations welcomed</p>
+                      <p className="text-muted-foreground"><br />Virtual consultations welcomed</p>
                     </div>
                   </div>
                 </div>

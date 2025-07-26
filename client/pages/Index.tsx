@@ -236,13 +236,13 @@ export default function Index() {
       <section id="contact" className="py-20 bg-gradient-to-b from-muted/30 to-background">
         <div className="container mx-auto px-4">
           <div className="text-center mb-16">
-            <Badge variant="secondary" className="mb-4">Get In Touch</Badge>
+            <Badge variant="secondary" className="mb-4">Begin Your Healing Journey</Badge>
             <h2 className="text-4xl md:text-5xl font-bold text-foreground mb-6">
-              Schedule Your Appointment
+              Schedule Your Ayurvedic Consultation
             </h2>
             <p className="text-xl text-muted-foreground max-w-3xl mx-auto">
-              Ready to take the first step towards better health? Contact us today to schedule 
-              your consultation or ask any questions you may have.
+              Ready to discover natural healing through Ayurveda? Call me today to begin your personalized
+              journey toward balance, wellness, and vibrant health.
             </p>
           </div>
 

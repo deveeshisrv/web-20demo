@@ -19,7 +19,7 @@ import {
 
 export default function Index() {
   return (
-    <div className="min-h-screen bg-background">
+    <div className="min-h-screen bg-background scroll-smooth">
       {/* Navigation */}
       <nav className="fixed top-0 w-full bg-background/95 backdrop-blur-sm border-b border-border z-50">
         <div className="container mx-auto px-4 py-4 flex items-center justify-between">

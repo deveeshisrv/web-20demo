@@ -224,9 +224,9 @@ export default function Index() {
                 <div className="p-4 bg-primary/10 rounded-full w-fit mx-auto mb-4 transition-all duration-300 group-hover:bg-primary/20 group-hover:scale-110">
                   <Stethoscope className="h-8 w-8 text-primary transition-all duration-300 group-hover:scale-110" />
                 </div>
-                <h3 className="text-xl font-semibold mb-2">Specializations</h3>
-                <p className="text-muted-foreground mb-2">Digestive Health & Detox</p>
-                <p className="text-sm text-muted-foreground">Women's Health, Stress Management</p>
+                <h3 className="text-xl font-semibold mb-2">Clinical Specializations</h3>
+                <p className="text-muted-foreground mb-2">Gastroenterology & Panchakarma Therapeutics</p>
+                <p className="text-sm text-muted-foreground">Reproductive Health, Neuropsychological Disorders</p>
               </CardContent>
             </Card>
           </div>

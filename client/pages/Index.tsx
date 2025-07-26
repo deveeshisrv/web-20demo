@@ -363,7 +363,7 @@ export default function Index() {
 
                 <div className="pt-4 border-t border-primary/20">
                   <p className="text-sm text-muted-foreground">
-                    <strong>Office Hours:</strong> Monday-Friday 8:00 AM - 6:00 PM, Saturday 9:00 AM - 2:00 PM
+                    <strong>Best times to reach me:</strong> Monday-Friday 8:00 AM - 6:00 PM, Saturday 9:00 AM - 2:00 PM
                   </p>
                 </div>
               </div>

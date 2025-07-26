@@ -99,18 +99,15 @@ export default function Index() {
               <div className="grid grid-cols-3 gap-6 pt-8">
                 <div className="text-center group hover:scale-110 transition-all duration-300 cursor-pointer">
                   <div className="text-3xl font-bold text-primary group-hover:text-primary/80 transition-colors">15+</div>
-                  <div className="text-sm text-muted-foreground">Years Experience</div>
+                  <div className="text-sm text-muted-foreground">Years Caring</div>
                 </div>
                 <div className="text-center group hover:scale-110 transition-all duration-300 cursor-pointer">
-                  <div className="text-3xl font-bold text-primary group-hover:text-primary/80 transition-colors">5000+</div>
-                  <div className="text-sm text-muted-foreground">Patients Treated</div>
+                  <div className="text-3xl font-bold text-primary group-hover:text-primary/80 transition-colors">24/7</div>
+                  <div className="text-sm text-muted-foreground">Care Available</div>
                 </div>
                 <div className="text-center group hover:scale-110 transition-all duration-300 cursor-pointer">
-                  <div className="text-3xl font-bold text-primary group-hover:text-primary/80 transition-colors">4.9</div>
-                  <div className="text-sm text-muted-foreground flex items-center justify-center gap-1">
-                    <Star className="h-4 w-4 fill-primary text-primary" />
-                    Patient Rating
-                  </div>
+                  <div className="text-3xl font-bold text-primary group-hover:text-primary/80 transition-colors">♥</div>
+                  <div className="text-sm text-muted-foreground">Compassionate Care</div>
                 </div>
               </div>
             </div>

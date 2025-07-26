@@ -367,7 +367,7 @@ export default function Index() {
               <div className="p-2 bg-primary rounded-lg">
                 <Stethoscope className="h-6 w-6 text-primary-foreground" />
               </div>
-              <span className="text-xl font-bold text-foreground">Dr. Sarah Chen</span>
+              <span className="text-xl font-bold text-foreground">Dr. Chhavi</span>
             </div>
             <p className="text-muted-foreground mb-6">
               Caring for people like you for over 15 years - one conversation at a time.

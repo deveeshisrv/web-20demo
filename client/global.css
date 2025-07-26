@@ -100,7 +100,26 @@
     @apply border-border;
   }
 
+  html {
+    scroll-behavior: smooth;
+  }
+
   body {
     @apply bg-background text-foreground;
+  }
+
+  /* Smooth scrolling for anchor links */
+  a[href^="#"] {
+    scroll-behavior: smooth;
+  }
+
+  /* Smooth transitions for all interactive elements */
+  button, input, textarea, select {
+    @apply transition-all duration-300;
+  }
+
+  /* Enhanced focus states */
+  *:focus-visible {
+    @apply ring-2 ring-primary ring-offset-2 outline-none transition-all duration-200;
   }
 }

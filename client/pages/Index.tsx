@@ -302,18 +302,7 @@ export default function Index() {
                 </div>
               </div>
 
-              <Card className="p-6 bg-primary/5 border-primary/20">
-                <div className="flex items-start space-x-4">
-                  <Heart className="h-6 w-6 text-primary mt-1" />
-                  <div>
-                    <h4 className="font-semibold mb-2">Personal Attention</h4>
-                    <p className="text-sm text-muted-foreground">
-                      When you call, you're speaking directly with me. No receptionists,
-                      no waiting - just honest conversation about your health.
-                    </p>
-                  </div>
-                </div>
-              </Card>
+
             </div>
 
             {/* Call to Book */}

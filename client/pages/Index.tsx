@@ -372,10 +372,8 @@ export default function Index() {
             <p className="text-muted-foreground mb-6">
               Professional medical practice specializing in clinical Ayurvedic medicine and root cause treatment protocols.
             </p>
-            <div className="flex justify-center space-x-8 text-sm text-muted-foreground">
-              <span>© 2024 Dr. Sarah Chen Practice</span>
-              <span>Privacy Policy</span>
-              <span>Terms of Service</span>
+            <div className="text-sm text-muted-foreground">
+              © 2024 Dr. Chhavi Practice
             </div>
           </div>
         </div>

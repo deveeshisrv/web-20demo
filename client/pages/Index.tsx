@@ -202,8 +202,8 @@ export default function Index() {
                   <GraduationCap className="h-8 w-8 text-primary transition-all duration-300 group-hover:scale-110" />
                 </div>
                 <h3 className="text-xl font-semibold mb-2">Education</h3>
-                <p className="text-muted-foreground mb-2">MD, Johns Hopkins University</p>
-                <p className="text-sm text-muted-foreground">Residency: Internal Medicine, Mayo Clinic</p>
+                <p className="text-muted-foreground mb-2">BAMS, Ayurvedic Medicine & Surgery</p>
+                <p className="text-sm text-muted-foreground">Advanced studies in Panchakarma & Herbology</p>
               </CardContent>
             </Card>
 
@@ -213,8 +213,8 @@ export default function Index() {
                   <Award className="h-8 w-8 text-primary transition-all duration-300 group-hover:scale-110" />
                 </div>
                 <h3 className="text-xl font-semibold mb-2">Certifications</h3>
-                <p className="text-muted-foreground mb-2">Board Certified Internal Medicine</p>
-                <p className="text-sm text-muted-foreground">American Board of Internal Medicine</p>
+                <p className="text-muted-foreground mb-2">Certified Ayurvedic Practitioner</p>
+                <p className="text-sm text-muted-foreground">Pulse Diagnosis & Constitutional Analysis</p>
               </CardContent>
             </Card>
 
@@ -224,8 +224,8 @@ export default function Index() {
                   <Stethoscope className="h-8 w-8 text-primary transition-all duration-300 group-hover:scale-110" />
                 </div>
                 <h3 className="text-xl font-semibold mb-2">Specializations</h3>
-                <p className="text-muted-foreground mb-2">Diabetes Management</p>
-                <p className="text-sm text-muted-foreground">Cardiovascular Health, Preventive Care</p>
+                <p className="text-muted-foreground mb-2">Digestive Health & Detox</p>
+                <p className="text-sm text-muted-foreground">Women's Health, Stress Management</p>
               </CardContent>
             </Card>
           </div>

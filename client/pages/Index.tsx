@@ -142,13 +142,13 @@ export default function Index() {
       <section id="about" className="py-20 bg-gradient-to-b from-background to-muted/30">
         <div className="container mx-auto px-4">
           <div className="text-center mb-16">
-            <Badge variant="secondary" className="mb-4">About Dr. Chen</Badge>
+            <Badge variant="secondary" className="mb-4">About Me</Badge>
             <h2 className="text-4xl md:text-5xl font-bold text-foreground mb-6">
-              Dedicated to Your Wellbeing
+              Getting to Know Me
             </h2>
             <p className="text-xl text-muted-foreground max-w-3xl mx-auto">
-              With over 15 years of experience in internal medicine, I believe in building lasting 
-              relationships with my patients through comprehensive, personalized care.
+              I've been practicing medicine for over 15 years, but more importantly, I've been listening,
+              learning, and caring for people like you. Every patient teaches me something new.
             </p>
           </div>
 

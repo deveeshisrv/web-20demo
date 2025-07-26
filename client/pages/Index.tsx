@@ -55,7 +55,7 @@ export default function Index() {
             <div className="p-2 bg-primary rounded-lg">
               <Stethoscope className="h-6 w-6 text-primary-foreground" />
             </div>
-            <span className="text-xl font-bold text-foreground">Dr. Sarah Chen</span>
+            <span className="text-xl font-bold text-foreground">Dr. Chhavi</span>
           </div>
           <div className="hidden md:flex items-center space-x-8">
             <a href="#home" className="text-foreground hover:text-primary transition-all duration-300 hover:scale-105">Home</a>

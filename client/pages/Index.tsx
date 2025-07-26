@@ -383,7 +383,7 @@ export default function Index() {
               <span className="text-xl font-bold text-foreground">Dr. Sarah Chen</span>
             </div>
             <p className="text-muted-foreground mb-6">
-              Providing compassionate, comprehensive healthcare for over 15 years.
+              Caring for people like you for over 15 years - one conversation at a time.
             </p>
             <div className="flex justify-center space-x-8 text-sm text-muted-foreground">
               <span>© 2024 Dr. Sarah Chen Practice</span>

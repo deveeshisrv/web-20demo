@@ -348,19 +348,6 @@ export default function Index() {
                   </p>
                 </div>
 
-                <div className="grid sm:grid-cols-2 gap-4 pt-6">
-                  <div className="text-center p-4 bg-background rounded-lg border">
-                    <Clock className="h-6 w-6 text-primary mx-auto mb-2" />
-                    <h4 className="font-semibold mb-1">Flexible Timing</h4>
-                    <p className="text-sm text-muted-foreground">I work around your schedule, not the other way around</p>
-                  </div>
-                  <div className="text-center p-4 bg-background rounded-lg border">
-                    <Heart className="h-6 w-6 text-primary mx-auto mb-2" />
-                    <h4 className="font-semibold mb-1">Direct Connection</h4>
-                    <p className="text-sm text-muted-foreground">No middleman - just you and me talking about your health</p>
-                  </div>
-                </div>
-
                 <div className="pt-4 border-t border-primary/20">
                   <p className="text-sm text-muted-foreground">
                     <strong>Best times to reach me:</strong> Monday-Friday 8:00 AM - 6:00 PM, Saturday 9:00 AM - 2:00 PM

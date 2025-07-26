@@ -345,7 +345,7 @@ export default function Index() {
                   </a>
 
                   <p className="text-sm text-muted-foreground">
-                    You'll be speaking directly with me - let's find a time that works for both of us
+                    Direct consultation with Dr. Chhavi - professional assessment and treatment planning
                   </p>
                 </div>
 

@@ -171,10 +171,10 @@ export default function Index() {
 
           {/* Credentials */}
           <div className="grid md:grid-cols-3 gap-8">
-            <Card className="text-center p-6">
+            <Card className="text-center p-6 transition-all duration-300 hover:scale-105 hover:shadow-xl group cursor-pointer">
               <CardContent className="pt-6">
-                <div className="p-4 bg-primary/10 rounded-full w-fit mx-auto mb-4">
-                  <GraduationCap className="h-8 w-8 text-primary" />
+                <div className="p-4 bg-primary/10 rounded-full w-fit mx-auto mb-4 transition-all duration-300 group-hover:bg-primary/20 group-hover:scale-110">
+                  <GraduationCap className="h-8 w-8 text-primary transition-all duration-300 group-hover:scale-110" />
                 </div>
                 <h3 className="text-xl font-semibold mb-2">Education</h3>
                 <p className="text-muted-foreground mb-2">MD, Johns Hopkins University</p>
@@ -182,10 +182,10 @@ export default function Index() {
               </CardContent>
             </Card>
 
-            <Card className="text-center p-6">
+            <Card className="text-center p-6 transition-all duration-300 hover:scale-105 hover:shadow-xl group cursor-pointer">
               <CardContent className="pt-6">
-                <div className="p-4 bg-primary/10 rounded-full w-fit mx-auto mb-4">
-                  <Award className="h-8 w-8 text-primary" />
+                <div className="p-4 bg-primary/10 rounded-full w-fit mx-auto mb-4 transition-all duration-300 group-hover:bg-primary/20 group-hover:scale-110">
+                  <Award className="h-8 w-8 text-primary transition-all duration-300 group-hover:scale-110" />
                 </div>
                 <h3 className="text-xl font-semibold mb-2">Certifications</h3>
                 <p className="text-muted-foreground mb-2">Board Certified Internal Medicine</p>
@@ -193,10 +193,10 @@ export default function Index() {
               </CardContent>
             </Card>
 
-            <Card className="text-center p-6">
+            <Card className="text-center p-6 transition-all duration-300 hover:scale-105 hover:shadow-xl group cursor-pointer">
               <CardContent className="pt-6">
-                <div className="p-4 bg-primary/10 rounded-full w-fit mx-auto mb-4">
-                  <Stethoscope className="h-8 w-8 text-primary" />
+                <div className="p-4 bg-primary/10 rounded-full w-fit mx-auto mb-4 transition-all duration-300 group-hover:bg-primary/20 group-hover:scale-110">
+                  <Stethoscope className="h-8 w-8 text-primary transition-all duration-300 group-hover:scale-110" />
                 </div>
                 <h3 className="text-xl font-semibold mb-2">Specializations</h3>
                 <p className="text-muted-foreground mb-2">Diabetes Management</p>

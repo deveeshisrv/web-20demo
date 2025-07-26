@@ -169,8 +169,8 @@ export default function Index() {
                     <Users className="h-6 w-6 text-primary" />
                   </div>
                   <div>
-                    <h4 className="font-semibold mb-1">Patient-Centered Care</h4>
-                    <p className="text-sm text-muted-foreground">Personalized treatment plans tailored to your needs</p>
+                    <h4 className="font-semibold mb-1">Constitutional Assessment</h4>
+                    <p className="text-sm text-muted-foreground">Understanding your unique Vata, Pitta, and Kapha balance</p>
                   </div>
                 </div>
                 <div className="flex items-start space-x-4">
@@ -178,8 +178,8 @@ export default function Index() {
                     <Heart className="h-6 w-6 text-primary" />
                   </div>
                   <div>
-                    <h4 className="font-semibold mb-1">Preventive Focus</h4>
-                    <p className="text-sm text-muted-foreground">Emphasis on preventing illness before it starts</p>
+                    <h4 className="font-semibold mb-1">Root Cause Healing</h4>
+                    <p className="text-sm text-muted-foreground">Addressing the source, not just symptoms, naturally</p>
                   </div>
                 </div>
               </div>

@@ -323,10 +323,10 @@ export default function Index() {
                   <Phone className="h-12 w-12 text-primary" />
                 </div>
 
-                <h3 className="text-3xl font-bold text-foreground">Call to Book Your Appointment</h3>
+                <h3 className="text-3xl font-bold text-foreground">Let's Talk About Your Health</h3>
 
                 <p className="text-lg text-muted-foreground">
-                  Ready to schedule your visit? Give us a call and we'll find the perfect time for you.
+                  Ready to take the next step? Call me directly and let's have a real conversation about how I can help you feel your best.
                 </p>
 
                 <div className="space-y-4">

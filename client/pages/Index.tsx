@@ -323,10 +323,10 @@ export default function Index() {
                   <Phone className="h-12 w-12 text-primary" />
                 </div>
 
-                <h3 className="text-3xl font-bold text-foreground">Let's Talk About Your Health</h3>
+                <h3 className="text-3xl font-bold text-foreground">Begin Your Ayurvedic Journey</h3>
 
                 <p className="text-lg text-muted-foreground">
-                  Ready to take the next step? Call me directly and let's have a real conversation about how I can help you feel your best.
+                  Ready to explore natural healing? Call me directly and let's discuss how Ayurveda can restore balance and vitality to your life.
                 </p>
 
                 <div className="space-y-4">

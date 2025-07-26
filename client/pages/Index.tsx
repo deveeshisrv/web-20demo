@@ -236,13 +236,13 @@ export default function Index() {
       <section id="contact" className="py-20 bg-gradient-to-b from-muted/30 to-background">
         <div className="container mx-auto px-4">
           <div className="text-center mb-16">
-            <Badge variant="secondary" className="mb-4">Schedule Clinical Consultation</Badge>
+            <Badge variant="secondary" className="mb-4">Medical Consultations</Badge>
             <h2 className="text-4xl md:text-5xl font-bold text-foreground mb-6">
-              Professional Ayurvedic Assessment
+              Professional Medical Assessment
             </h2>
             <p className="text-xl text-muted-foreground max-w-3xl mx-auto">
-              Schedule your comprehensive consultation for systematic evaluation and personalized treatment planning.
-              Dr. Chhavi provides evidence-based root cause analysis and therapeutic protocols for optimal health outcomes.
+              Schedule your medical consultation for comprehensive diagnostic evaluation and treatment planning.
+              Dr. Chhavi provides professional Ayurvedic medical services with systematic root cause analysis and clinical therapeutic protocols.
             </p>
           </div>
 

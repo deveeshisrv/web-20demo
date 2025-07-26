@@ -76,12 +76,12 @@ export default function Index() {
                   Ayurveda
                 </Badge>
                 <h1 className="text-5xl md:text-6xl font-bold text-foreground leading-tight">
-                  Your Health,
-                  <span className="text-primary">My Passion</span>
+                  Root Cause
+                  <span className="text-primary">Healing</span>
                 </h1>
                 <p className="text-xl text-muted-foreground leading-relaxed">
-                  Hi, I'm Dr. Chhavi. I practice ancient Ayurveda with a modern heart - treating not just symptoms, but your whole being.
-                  When you call me, you're not just seeking treatment. You're beginning a journey toward natural healing and lasting wellness.
+                  Dr. Chhavi specializes in comprehensive Ayurvedic medicine focused on identifying and treating the underlying causes of illness.
+                  Through systematic constitutional analysis and time-tested therapeutic protocols, we address the source of health imbalances for lasting healing.
                 </p>
               </div>
               

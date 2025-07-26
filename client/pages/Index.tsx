@@ -80,8 +80,8 @@ export default function Index() {
                   <span className="text-primary">My Passion</span>
                 </h1>
                 <p className="text-xl text-muted-foreground leading-relaxed">
-                  Hi, I'm Dr. Sarah Chen. I practice medicine differently - it's personal, warm, and focused entirely on you.
-                  When you call me, you're not just another appointment. You're someone I genuinely care about helping feel their best.
+                  Hi, I'm Dr. Chhavi. I practice ancient Ayurveda with a modern heart - treating not just symptoms, but your whole being.
+                  When you call me, you're not just seeking treatment. You're beginning a journey toward natural healing and lasting wellness.
                 </p>
               </div>
               

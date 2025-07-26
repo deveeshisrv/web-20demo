@@ -124,8 +124,8 @@ export default function Index() {
                       <Heart className="h-6 w-6 text-primary" />
                     </div>
                     <div>
-                      <div className="font-semibold">Trusted Care</div>
-                      <div className="text-sm text-muted-foreground">Patient-first approach</div>
+                      <div className="font-semibold">Clinical Excellence</div>
+                      <div className="text-sm text-muted-foreground">Evidence-based medical protocols</div>
                     </div>
                   </div>
                 </div>

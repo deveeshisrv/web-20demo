@@ -351,13 +351,13 @@ export default function Index() {
                 <div className="grid sm:grid-cols-2 gap-4 pt-6">
                   <div className="text-center p-4 bg-background rounded-lg border">
                     <Clock className="h-6 w-6 text-primary mx-auto mb-2" />
-                    <h4 className="font-semibold mb-1">Quick Scheduling</h4>
-                    <p className="text-sm text-muted-foreground">Usually available same day or next day</p>
+                    <h4 className="font-semibold mb-1">Flexible Timing</h4>
+                    <p className="text-sm text-muted-foreground">I work around your schedule, not the other way around</p>
                   </div>
                   <div className="text-center p-4 bg-background rounded-lg border">
                     <Heart className="h-6 w-6 text-primary mx-auto mb-2" />
-                    <h4 className="font-semibold mb-1">Personal Touch</h4>
-                    <p className="text-sm text-muted-foreground">Speak directly with our care team</p>
+                    <h4 className="font-semibold mb-1">Direct Connection</h4>
+                    <p className="text-sm text-muted-foreground">No middleman - just you and me talking about your health</p>
                   </div>
                 </div>
 

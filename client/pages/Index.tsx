@@ -16,8 +16,37 @@ import {
   Star,
   Stethoscope
 } from "lucide-react";
+import { useEffect } from "react";
 
 export default function Index() {
+  useEffect(() => {
+    // Handle smooth scrolling for navigation links
+    const handleSmoothScroll = (e: Event) => {
+      const target = e.target as HTMLAnchorElement;
+      if (target.tagName === 'A' && target.getAttribute('href')?.startsWith('#')) {
+        e.preventDefault();
+        const targetId = target.getAttribute('href')?.substring(1);
+        const targetElement = document.getElementById(targetId || '');
+
+        if (targetElement) {
+          const navHeight = 80; // Height of fixed navigation
+          const targetPosition = targetElement.offsetTop - navHeight;
+
+          window.scrollTo({
+            top: targetPosition,
+            behavior: 'smooth'
+          });
+        }
+      }
+    };
+
+    // Add event listener to all navigation links
+    document.addEventListener('click', handleSmoothScroll);
+
+    return () => {
+      document.removeEventListener('click', handleSmoothScroll);
+    };
+  }, []);
   return (
     <div className="min-h-screen bg-background scroll-smooth">
       {/* Navigation */}

@@ -141,13 +141,13 @@ export default function Index() {
       <section id="about" className="py-20 bg-gradient-to-b from-background to-muted/30">
         <div className="container mx-auto px-4">
           <div className="text-center mb-16">
-            <Badge variant="secondary" className="mb-4">About Me</Badge>
+            <Badge variant="secondary" className="mb-4">Clinical Expertise</Badge>
             <h2 className="text-4xl md:text-5xl font-bold text-foreground mb-6">
-              My Journey in Ayurveda
+              Evidence-Based Ayurvedic Medicine
             </h2>
             <p className="text-xl text-muted-foreground max-w-3xl mx-auto">
-              I've been practicing Ayurveda for over 10 years, guided by ancient wisdom and modern understanding.
-              Each person I meet teaches me more about the beautiful complexity of natural healing.
+              With over 10 years of clinical practice in Ayurvedic medicine, Dr. Chhavi employs systematic diagnostic methodologies
+              to identify fundamental imbalances and implement targeted therapeutic interventions for optimal patient outcomes.
             </p>
           </div>
 

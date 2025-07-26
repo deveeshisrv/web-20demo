@@ -344,7 +344,7 @@ export default function Index() {
                   </a>
 
                   <p className="text-sm text-muted-foreground">
-                    Our friendly staff will help you schedule at a time that works best for you
+                    You'll be speaking directly with me - let's find a time that works for both of us
                   </p>
                 </div>
 

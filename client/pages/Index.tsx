@@ -304,12 +304,12 @@ export default function Index() {
 
               <Card className="p-6 bg-primary/5 border-primary/20">
                 <div className="flex items-start space-x-4">
-                  <Clock className="h-6 w-6 text-primary mt-1" />
+                  <Heart className="h-6 w-6 text-primary mt-1" />
                   <div>
-                    <h4 className="font-semibold mb-2">Same-Day Appointments</h4>
+                    <h4 className="font-semibold mb-2">Personal Attention</h4>
                     <p className="text-sm text-muted-foreground">
-                      We offer same-day appointments for urgent concerns. Call us before 2 PM 
-                      for availability on the same day.
+                      When you call, you're speaking directly with me. No receptionists,
+                      no waiting - just honest conversation about your health.
                     </p>
                   </div>
                 </div>

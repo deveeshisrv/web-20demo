@@ -257,28 +257,28 @@ export default function Index() {
                       <Phone className="h-6 w-6 text-primary" />
                     </div>
                     <div>
-                      <p className="font-semibold">Phone</p>
+                      <p className="font-semibold">Call Me Directly</p>
                       <p className="text-muted-foreground">(555) 123-4567</p>
                     </div>
                   </div>
-                  
+
                   <div className="flex items-center space-x-4">
                     <div className="p-3 bg-primary/10 rounded-lg">
                       <Mail className="h-6 w-6 text-primary" />
                     </div>
                     <div>
-                      <p className="font-semibold">Email</p>
-                      <p className="text-muted-foreground">appointments@drsarahchen.com</p>
+                      <p className="font-semibold">Personal Email</p>
+                      <p className="text-muted-foreground">sarah.chen.md@gmail.com</p>
                     </div>
                   </div>
-                  
+
                   <div className="flex items-center space-x-4">
                     <div className="p-3 bg-primary/10 rounded-lg">
                       <MapPin className="h-6 w-6 text-primary" />
                     </div>
                     <div>
-                      <p className="font-semibold">Address</p>
-                      <p className="text-muted-foreground">123 Medical Center Drive<br />Suite 200, Healthcare City, HC 12345</p>
+                      <p className="font-semibold">Where I Practice</p>
+                      <p className="text-muted-foreground">Home visits available<br />Virtual consultations welcomed</p>
                     </div>
                   </div>
                 </div>

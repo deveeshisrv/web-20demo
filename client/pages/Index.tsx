@@ -153,15 +153,14 @@ export default function Index() {
 
           <div className="grid lg:grid-cols-2 gap-16 items-center mb-16">
             <div className="space-y-6">
-              <h3 className="text-3xl font-bold text-foreground">Root Cause Treatment Methodology</h3>
+              <h3 className="text-3xl font-bold text-foreground">Clinical Treatment Protocols</h3>
               <p className="text-muted-foreground leading-relaxed">
-                Our clinical approach begins with comprehensive constitutional assessment (Prakriti analysis) and systematic evaluation
-                of current pathological imbalances (Vikriti). Through detailed pulse diagnosis, dietary analysis, and lifestyle assessment,
-                we identify the underlying causes of disease manifestation.
+                The practice employs systematic diagnostic methodologies including constitutional assessment (Prakriti), pathological evaluation (Vikriti),
+                pulse diagnosis (Nadi Pariksha), and comprehensive clinical examination to determine precise etiopathological factors underlying disease manifestation.
               </p>
               <p className="text-muted-foreground leading-relaxed">
-                Treatment protocols are individually formulated using evidence-based herbal therapeutics, targeted nutritional interventions,
-                panchakarma detoxification procedures, and lifestyle modifications designed to address causative factors and restore physiological equilibrium.
+                Treatment protocols are formulated according to classical Ayurvedic principles using standardized herbal formulations,
+                panchakarma therapeutic procedures, and targeted interventions designed to eliminate disease causation and restore optimal physiological function.
               </p>
               
               <div className="grid sm:grid-cols-2 gap-6 pt-6">

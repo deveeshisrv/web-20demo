@@ -278,7 +278,18 @@ export default function Index() {
                     </div>
                     <div>
                       <p className="font-semibold">Where I Practice</p>
-                      <p className="text-muted-foreground"><br />Virtual consultations welcomed</p>
+                      <p className="text-muted-foreground">
+                        <a
+                          href="https://maps.google.com/?q=123+Medical+Center+Drive,+Healthcare+City,+HC+12345"
+                          target="_blank"
+                          rel="noopener noreferrer"
+                          className="text-primary hover:text-primary/80 transition-colors underline"
+                        >
+                          📍 View on Map
+                        </a>
+                        <br />
+                        Virtual consultations welcomed
+                      </p>
                     </div>
                   </div>
                 </div>

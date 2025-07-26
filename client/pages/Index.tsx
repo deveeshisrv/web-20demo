@@ -208,7 +208,7 @@ export default function Index() {
       </section>
 
       {/* Contact & Booking Section */}
-      <section id="contact" className="py-20">
+      <section id="contact" className="py-20 bg-gradient-to-b from-muted/30 to-background">
         <div className="container mx-auto px-4">
           <div className="text-center mb-16">
             <Badge variant="secondary" className="mb-4">Get In Touch</Badge>
